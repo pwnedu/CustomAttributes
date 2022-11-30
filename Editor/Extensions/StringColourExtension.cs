@@ -56,6 +56,13 @@ namespace CustomAttributes
             #endregion
         }
 
+        [MenuItem(CustomAttributesMenu.menuItem + "Attribute Settings", priority = 11)]
+        private static void AttributeSettings()
+        {
+            EditorGUIUtility.PingObject(colourData);
+            Selection.activeObject = colourData;
+        }
+
         private static void FindStyleData()
 		{
 			var guids = AssetDatabase.FindAssets($"t:{typeof(FormatStyles)}");
