@@ -7,7 +7,7 @@ namespace CustomAttributes
     public class CustomAttributesMenu
     {
         const string menuItem = "Tools/Custom Tools/Custom Attributes/";
-        const string toolPath = "Packages/com.kiltec.unitytools/CustomAttributes/";
+        const string toolPath = "Packages/com.kiltec.customattributes/";
 
         [MenuItem(menuItem + "Attribute Settings", priority = 11)]
         private static void AttributeSettings()
