@@ -1,8 +1,8 @@
 {
   "name": "com.kiltec.customattributes",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "displayName": "Custom Attributes by pwnedu",
-  "description": "Productivity tools for everyone",
+  "description": "A collection of conditional, decorator and property attributes to customise scripts in the inspector.",
   "unity": "2018.1",
   "documentationUrl": "https://github.com/pwnedu/CustomAttributes/wiki",
   "licensesUrl": "https://github.com/pwnedu/CustomAttributes/blob/main/LICENSE",
