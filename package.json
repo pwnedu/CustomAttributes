@@ -5,7 +5,7 @@
   "description": "A collection of conditional, decorator and property attributes to customise scripts in the inspector.",
   "unity": "2018.1",
   "documentationUrl": "https://github.com/pwnedu/CustomAttributes/wiki",
-  "licensesUrl": "https://github.com/pwnedu/CustomAttributes/blob/main/LICENSE",
+  "licensesUrl": "https://github.com/pwnedu/CustomAttributes/blob/main/LICENSE.md",
   "keywords": [
     "unity",
     "tools",
