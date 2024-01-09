@@ -1,7 +1,7 @@
 ﻿// NOTE: DON'T put in an editor folder. //
 
 // Originally created by Denis Rizov
-// Modified by kiltec
+// Modified by Kiltec
 
 using UnityEngine;
 

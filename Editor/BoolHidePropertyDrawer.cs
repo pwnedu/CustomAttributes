@@ -1,7 +1,7 @@
 // NOTE: Put in a Editor folder. //
 
 // Originally created by Brecht Lecluyse
-// Modified by: - kiltec
+// Modified by Kiltec
 
 using UnityEditor;
 using UnityEngine;
